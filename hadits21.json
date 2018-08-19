@@ -1,0 +1,39 @@
+{
+  "name": "https://www.hadits21.info",
+  "short_name": "hadits21",
+  "start_url": "https://www.hadits21.info/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0000ff",
+  "description": "kumpulan ilmu hadits, artikel tentang isi dari kitab hadits, dan download kitab",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-bTX8ASGzYFU/W3jBktSSofI/AAAAAAAAAI0/MwcaRjou8qwKKEa5t2TC0pgSy6lsXdxEwCLcBGAs/s320/ICO%2BHADITS%2B21.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bTX8ASGzYFU/W3jBktSSofI/AAAAAAAAAI0/MwcaRjou8qwKKEa5t2TC0pgSy6lsXdxEwCLcBGAs/s320/ICO%2BHADITS%2B21.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bTX8ASGzYFU/W3jBktSSofI/AAAAAAAAAI0/MwcaRjou8qwKKEa5t2TC0pgSy6lsXdxEwCLcBGAs/s320/ICO%2BHADITS%2B21.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bTX8ASGzYFU/W3jBktSSofI/AAAAAAAAAI0/MwcaRjou8qwKKEa5t2TC0pgSy6lsXdxEwCLcBGAs/s320/ICO%2BHADITS%2B21.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bTX8ASGzYFU/W3jBktSSofI/AAAAAAAAAI0/MwcaRjou8qwKKEa5t2TC0pgSy6lsXdxEwCLcBGAs/s320/ICO%2BHADITS%2B21.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bTX8ASGzYFU/W3jBktSSofI/AAAAAAAAAI0/MwcaRjou8qwKKEa5t2TC0pgSy6lsXdxEwCLcBGAs/s320/ICO%2BHADITS%2B21.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-bTX8ASGzYFU/W3jBktSSofI/AAAAAAAAAI0/MwcaRjou8qwKKEa5t2TC0pgSy6lsXdxEwCLcBGAs/s320/ICO%2BHADITS%2B21.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
